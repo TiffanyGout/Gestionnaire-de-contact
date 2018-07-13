@@ -1,0 +1,4 @@
+for(i =nom.length; i<10; i++){
+    console.log("Nom : " + nom[1] + "\nPrenom : " + prenom[1]);
+        console.log("Nom : " + nom[0] + "\nPrenom : " + prenom[0]);
+    console.log("Nom : " + nom[1] + "\nPrenom : " + prenom[1]);
